@@ -18,7 +18,7 @@ Choose which product details to sync, such as titles, descriptions, images, pric
 Streamline content management and enhance your WordPress site with Smart Post Sync!
 
 
-### Why Choose the Smart Post Sync Plugin?
+## Why Choose the Smart Post Sync Plugin?
 
 **Simplified Integration:**
 * Smart Post Sync takes the complexity out of API integrations, offering an easy setup and user-friendly interface that lets you sync external data effortlessly.
@@ -37,25 +37,25 @@ Streamline content management and enhance your WordPress site with Smart Post Sy
 
 
 
-### Changelog
+## Changelog
 
 1.0
 * Initial release of the Smart Sync Post plugin.
 
-### Upgrade Notice
+## Upgrade Notice
 
 1.0
 Initial release. No upgrades available yet.
 
 
-### Credits
+## Credits
 Smart Post Sync is developed by Multidots. We appreciate the contributions from the open-source community.
 
-### Support
+## Support
 For support or questions, please [open an issue](https://github.com/multidots/smart-post-sync/issues) or contact us via our website at [multidots.com](http://multidots.com/).
 
-### License
+## License
 This plugin is licensed under the GPLv2 or later license.
 
-### See potential here?
+## See potential here?
 <a href="https://www.multidots.com/contact-us/" rel="nofollow"><img width="1692" height="296" alt="01-GitHub Footer" src="https://github.com/user-attachments/assets/6b9d63e7-3990-472d-acb9-5e4e51b446fc" /></a>
