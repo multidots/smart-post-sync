@@ -35,11 +35,6 @@ Streamline content management and enhance your WordPress site with Smart Post Sy
 **Enhanced Flexibility**
 * Whether you’re syncing product details, blog content, or other external data, Smart Post Sync adapts to your unique needs, providing a reliable solution for diverse use cases.
 
-### External services
-This plugin connects to the Salsify API to sync product data. It sends product information and API keys when syncing data.
-Service: Salsify API
-Terms of Service: https://www.salsify.com/legal/terms-of-service
-Privacy Policy: https://www.salsify.com/privacy-policy
 
 
 ### Changelog
