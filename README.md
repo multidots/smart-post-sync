@@ -1,6 +1,8 @@
 # Smart Post Sync Plugin
+![banner-772x250 (1)](https://github.com/user-attachments/assets/0eb949af-566c-4294-9789-da2db2d3e6f6)
 
-WordPress Plugin for [Multidots](https://www.multidots.com/)
+WordPress Plugin for [Multidots](https://www.multidots.com/).
+
 Smart Post Sync streamlines the process of connecting external data sources to your WordPress posts. With seamless API integration, this plugin automatically imports data and creates or updates posts on your site with minimal effort. Simplify your workflow and keep your content up to date effortlessly. Whether you’re syncing product information, blog content, or any other data, Smart Post Sync ensures a smooth and efficient workflow.
 
 
@@ -72,7 +74,7 @@ Initial release. No upgrades available yet.
 Smart Post Sync is developed by Multidots. We appreciate the contributions from the open-source community.
 
 ### Support
-For support or questions, please open an issue(https://github.com/multidots/salsisync/issues) or contact us via our website at multidots.com(http://multidots.com/).
+For support or questions, please [open an issue](https://github.com/multidots/smart-post-sync/issues) or contact us via our website at [multidots.com](http://multidots.com/).
 
 ### License
 This plugin is licensed under the GPLv2 or later license.
