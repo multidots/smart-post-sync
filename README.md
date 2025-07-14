@@ -35,21 +35,6 @@ Streamline content management and enhance your WordPress site with Smart Post Sy
 **Enhanced Flexibility**
 * Whether you’re syncing product details, blog content, or other external data, Smart Post Sync adapts to your unique needs, providing a reliable solution for diverse use cases.
 
-### Quick Start
-
-Clone or download this repository, change its name to something else (like, say, `md-optima`), and then you'll need to do a nine-step find and replace on the name in all the templates. **Please make sure to on capslock before start search and replace.**
-
-1. Search for `smart-post-sync` the text replace with: `md-optima` .
-2. Search for `smart_post_sync` the text replace with: `md_optima` .
-3. Search for `SMART-POST-SYNC` the text replace with: `MD-OPTIMA` .
-4. Search for `SMART_POST_SYNC` the text replace with: `MD_OPTIMA` .
-5. Search for `Wp_Post_Sync` the text replace with: `Md_Optima` .
-6. Search for `Smart Post Sync` the text replace with: `MD Optima` .
-7. Delete `phpcbf.xml`, `phpcs.xml` and `composer.json` file from theme root directory.
-8. Rename class file `smart-post-sync-plugin/inc/classes/class-smart-post-sync.php` to `smart-post-sync-theme/inc/classes/class-md-optima.php` .
-9. Rename plugin folder `smart-post-sync-plugin` to `md-optima` .
-
-
 ### External services
 This plugin connects to the Salsify API to sync product data. It sends product information and API keys when syncing data.
 Service: Salsify API
