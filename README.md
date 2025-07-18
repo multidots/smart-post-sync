@@ -18,15 +18,8 @@ Choose which product details to sync, such as titles, descriptions, images, pric
 Streamline content management and enhance your WordPress site with Smart Post Sync!
 
 ## Changelog
-
 1.0
 * Initial release of the Smart Sync Post plugin.
-
-## Upgrade Notice
-
-1.0
-Initial release. No upgrades available yet.
-
 
 ## Credits
 Smart Post Sync is developed by Multidots. We appreciate the contributions from the open-source community.
